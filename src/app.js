@@ -34,14 +34,15 @@ function App() {
 
             <Route path="/about" element={<AboutPage />} />
           </Routes>
-          <Card>
+          {/* Show active page  */}
+          {/* <Card>
             <NavLink to="/" activeclassname="active">
               Home
             </NavLink>
             <NavLink to="/about" activeclassname="active">
               About
             </NavLink>
-          </Card>
+          </Card> */}
           <AboutIconLink />
         </div>
       </Router>
