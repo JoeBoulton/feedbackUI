@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 A small web app that allows users to add, update, and delete feedback.
 
 ## Available Scripts
